@@ -1,4 +1,4 @@
-# DATE
+212223060241
 # EXPT. NO. 1 SIMULATION OF STAR TOPOLOGY NETWORK
 
 # AIM 
@@ -31,18 +31,20 @@ STEP 9: Select “add simple PDU” from tool bar and place it in source and des
 
 
 # IP CONNECTIVITY TABLE
-
-<img width="1608" height="626" alt="image" src="https://github.com/user-attachments/assets/e3626090-7469-4ce4-a93a-eee5f097f6a3" />
+| NAME | IP ADDRESS     | SUBNET MASK     | NETWORK      | CLASS   |
+|------|----------------|-----------------|--------------|---------|
+| PCO  | 192.168.1.10   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC1  | 192.168.1.30   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC2  | 192.168.1.20   | 255.255.255.0   | 192.168.1.1  | Class C |
+| PC3  | 192.168.2.20   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC4  | 192.168.2.30   | 255.255.255.0   | 192.168.1.2  | Class C |
+| PC5  | 192.168.2.10   | 255.255.255.0   | 192.168.1.2  | Class C |
 
 # NETWORK DIAGRAM
-
-<img width="930" height="340" alt="image" src="https://github.com/user-attachments/assets/08ee0efa-20c9-47b2-bc34-3e8700f9fed4" />
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/884357ee-26cd-4793-80f2-f20e0d372434" />
 
 # OUTPUT
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aafdc1f1-3707-4b2a-af43-d3a4ab24b61c" />
-
-<img width="824" height="608" alt="image" src="https://github.com/user-attachments/assets/39ce75ed-1e36-48d5-96b7-a041894dc88c" />
-
+<img width="661" height="546" alt="image" src="https://github.com/user-attachments/assets/f2e8ef9a-9f6d-467c-941c-70768fb09f2d" />
 
 # RESULT
 
